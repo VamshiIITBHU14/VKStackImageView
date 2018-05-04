@@ -1,5 +1,5 @@
 # VKStackImageView
-This project user ```CoreAnimation``` to mimic StackView from iOS. I have used ```UIImageView``` as the Base View for Stack. 
+This project uses ```CoreAnimation``` to mimic StackView from iOS. I have used ```UIImageView``` as the Base View for Stack. 
 
 
 Usage is real simple. 
